@@ -18,7 +18,7 @@
     .panel-body{
         font-family: "Arizonia", cursive;
         font-size: 24px;
-        color: #6e;
+        color: #6e6e6e;
     }
 
     .quote{
